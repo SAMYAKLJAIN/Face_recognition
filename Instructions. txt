@@ -1,0 +1,22 @@
+Execution order
+
+1.faceextract.py
+2.facetraining.py
+3.face_rec.py
+
+
+
+Steps involved:
+
+Getting pictures 
+saving them in dataset with name
+
+creating model
+Training datasets
+save trained model
+
+Load the saved model
+Recognize face using trained model
+Kaboom!!!!
+
+
